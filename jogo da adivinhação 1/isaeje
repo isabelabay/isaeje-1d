@@ -7,8 +7,12 @@ Especificação: O programa gerará um número aleatório e permitirá que o usu
 Pseudocódigo.
 incío 
 gerar número aleatorio ("1 entre 100")
-adinhação do numero gerado
-informar se numero adinhado está correto
+permitir que o usuario possa dar palpite
+adinhação do usuario sobre o numero aleatorio
+informar se numero escolhido ("numero adinhado está correto")
 ou senão
-informar se o número é maior ou menor do que o escolhido
+informar se numero escolhido ("é maior do que o número aleatorio")
+ou senão
+informar se ("é menor do que o número aleatorio")
+
 
