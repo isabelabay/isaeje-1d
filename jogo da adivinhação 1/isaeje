@@ -9,10 +9,10 @@ incío
 gerar número aleatorio ("1 entre 100")
 permitir que o usuario possa dar palpite
 adinhação do usuario sobre o numero aleatorio
-informar se numero escolhido ("numero adinhado está correto")
+informar se numero escolhido ("numero adivinhado está correto")
 ou senão
 informar se numero escolhido ("é maior do que o número aleatorio")
 ou senão
 informar se ("é menor do que o número aleatorio")
-
+permitir outro palpite do usuario até que ele acerte, repetindo todos os comandos anteriores.
 
