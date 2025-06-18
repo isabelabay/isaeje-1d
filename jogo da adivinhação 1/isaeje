@@ -28,7 +28,6 @@ numero_aleatorio = random.randint(1, 100)
     # Verificar se o palpite está correto, maior ou menor
     if palpite == numero_aleatorio:
         print("Parabéns! Você acertou o número!")
-        break
     elif palpite < numero_aleatorio:
         print("O número escolhido é menor do que o número aleatório.")
     else:
